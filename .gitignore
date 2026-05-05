@@ -1,0 +1,19 @@
+# Ignorar arquivos compilados e executáveis de Java e C++
+
+# Java
+*.class               
+*.jar                 
+
+# C++
+*.o                  
+*.obj                
+*.out             
+*.exe                
+*.dll                
+*.lib              
+*.so                  
+*.a                
+
+# Executáveis
+bin/                  
+
