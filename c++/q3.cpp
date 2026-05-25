@@ -9,7 +9,7 @@ int main() {
     int largura = 1;
     int comp = 7;
     
-    int qtdde = (x * y) / (largura * comp);
+    int qtdde = (x * largura) / (y * comp);
     
     std::cout << qtdde << std::endl;
 
